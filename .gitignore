@@ -1,0 +1,25 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Env and secrets
+.env
+
+# Uploads (never commit statements!)
+backend/uploads/
+*.csv
+*.xlsx
+*.pdf
+!backend/ml/seed_training_data.csv
+
+# Node
+node_modules/
+dist/
+
+# Windows / editors
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
