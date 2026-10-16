@@ -9,3 +9,8 @@ app = FastAPI(title="FinSight API")
 @app.get("/api/v1/health")
 def health():
     return {"status": "ok"}
+
+
+# git add .
+# git commit -m "Describe your changes"
+# git push
