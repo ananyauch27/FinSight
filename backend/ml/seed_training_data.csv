@@ -1,0 +1,281 @@
+﻿description,category
+Swiggy order payment,Food & Dining
+UPI PAYMENT: ZOMATO RESTAURANT BILL,Food & Dining
+Card transaction: Cafe coffee purchase REF 100002,Food & Dining
+Online/payment/for/Dominos/pizza/order,Food & Dining
+Account statement narration - McDonalds food bill,Food & Dining
+MONTHLY EXPENSE: KFC TAKEAWAY PAYMENT,Food & Dining
+Payment to Starbucks cafe purchase REF 100006,Food & Dining
+Transaction/details:/Restaurant/dining/bill,Food & Dining
+Purchase/payment: Food delivery order,Food & Dining
+BANK DEBIT: BAKERY PURCHASE,Food & Dining
+Bank credit: Lunch at local restaurant REF 100010,Food & Dining
+Paid/for/Dinner/bill/at/cafe,Food & Dining
+Received: UPI payment to Swiggy,Food & Dining
+AUTO-DEBIT FOR ONLINE FOOD ORDER,Food & Dining
+Merchant transaction: Pizza delivery payment REF 100014,Food & Dining
+Digital/payment:/Swiggy/order/payment,Food & Dining
+Statement entry: Zomato restaurant bill,Food & Dining
+PAYMENT MADE FOR CAFE COFFEE PURCHASE,Food & Dining
+Recent transaction: Dominos pizza order REF 100018,Food & Dining
+Expense/record:/McDonalds/food/bill,Food & Dining
+BigBasket grocery order,Groceries
+UPI PAYMENT: BLINKIT GROCERY DELIVERY,Groceries
+Card transaction: Zepto grocery order REF 100022,Groceries
+Online/payment/for/DMart/supermarket/bill,Groceries
+Account statement narration - Grofers grocery purchase,Groceries
+MONTHLY EXPENSE: RELIANCE FRESH GROCERIES,Groceries
+Payment to Vegetables and fruits purchase REF 100026,Groceries
+Transaction/details:/Monthly/grocery/shopping,Groceries
+Purchase/payment: Supermarket bill,Groceries
+BANK DEBIT: MILK AND BREAD PURCHASE,Groceries
+Bank credit: Household grocery items REF 100030,Groceries
+Paid/for/UPI/payment/at/grocery/store,Groceries
+Received: Online grocery delivery,Groceries
+AUTO-DEBIT FOR DAILY ESSENTIALS PURCHASE,Groceries
+Merchant transaction: Grocery store transaction REF 100034,Groceries
+Digital/payment:/BigBasket/grocery/order,Groceries
+Statement entry: Blinkit grocery delivery,Groceries
+PAYMENT MADE FOR ZEPTO GROCERY ORDER,Groceries
+Recent transaction: DMart supermarket bill REF 100038,Groceries
+Expense/record:/Grofers/grocery/purchase,Groceries
+Uber ride payment,Transport
+UPI PAYMENT: OLA CAB FARE,Transport
+Card transaction: Rapido bike ride REF 100042,Transport
+Online/payment/for/IRCTC/train/ticket,Transport
+Account statement narration - Metro card recharge,Transport
+MONTHLY EXPENSE: REDBUS BUS TICKET,Transport
+Payment to Local bus ticket REF 100046,Transport
+Transaction/details:/Taxi/fare,Transport
+Purchase/payment: Auto rickshaw fare,Transport
+BANK DEBIT: TRAIN TICKET BOOKING,Transport
+Bank credit: Cab ride to office REF 100050,Transport
+Paid/for/UPI/payment/for/auto,Transport
+Received: Bus pass purchase,Transport
+AUTO-DEBIT FOR RAILWAY RESERVATION,Transport
+Merchant transaction: Ride sharing payment REF 100054,Transport
+Digital/payment:/Uber/ride/payment,Transport
+Statement entry: Ola cab fare,Transport
+PAYMENT MADE FOR RAPIDO BIKE RIDE,Transport
+Recent transaction: IRCTC train ticket REF 100058,Transport
+Expense/record:/Metro/card/recharge,Transport
+Petrol pump payment,Fuel
+UPI PAYMENT: HPCL FUEL PURCHASE,Fuel
+Card transaction: BPCL petrol bill REF 100062,Fuel
+Online/payment/for/IOCL/diesel/payment,Fuel
+Account statement narration - Indian Oil petrol,Fuel
+MONTHLY EXPENSE: SHELL FUEL STATION,Fuel
+Payment to Petrol for scooter REF 100066,Fuel
+Transaction/details:/Diesel/filling/station,Fuel
+Purchase/payment: Fuel station purchase,Fuel
+BANK DEBIT: VEHICLE PETROL REFILL,Fuel
+Bank credit: UPI payment at petrol pump REF 100070,Fuel
+Paid/for/Car/fuel/expense,Fuel
+Received: Bike petrol expense,Fuel
+AUTO-DEBIT FOR FUEL BILL,Fuel
+Merchant transaction: Petrol pump transaction REF 100074,Fuel
+Digital/payment:/Petrol/pump/payment,Fuel
+Statement entry: HPCL fuel purchase,Fuel
+PAYMENT MADE FOR BPCL PETROL BILL,Fuel
+Recent transaction: IOCL diesel payment REF 100078,Fuel
+Expense/record:/Indian/Oil/petrol,Fuel
+Netflix monthly subscription,Subscriptions
+UPI PAYMENT: SPOTIFY PREMIUM PAYMENT,Subscriptions
+Card transaction: Prime Video subscription REF 100082,Subscriptions
+Online/payment/for/Hotstar/subscription/renewal,Subscriptions
+Account statement narration - YouTube Premium payment,Subscriptions
+MONTHLY EXPENSE: ICLOUD STORAGE PLAN,Subscriptions
+Payment to Google One subscription REF 100086,Subscriptions
+Transaction/details:/Monthly/streaming/plan,Subscriptions
+Purchase/payment: Music app subscription,Subscriptions
+BANK DEBIT: VIDEO STREAMING RENEWAL,Subscriptions
+Bank credit: Online subscription charge REF 100090,Subscriptions
+Paid/for/Netflix/renewal,Subscriptions
+Received: Spotify monthly plan,Subscriptions
+AUTO-DEBIT FOR CLOUD STORAGE PAYMENT,Subscriptions
+Merchant transaction: Digital membership fee REF 100094,Subscriptions
+Digital/payment:/Netflix/monthly/subscription,Subscriptions
+Statement entry: Spotify premium payment,Subscriptions
+PAYMENT MADE FOR PRIME VIDEO SUBSCRIPTION,Subscriptions
+Recent transaction: Hotstar subscription renewal REF 100098,Subscriptions
+Expense/record:/YouTube/Premium/payment,Subscriptions
+Electricity bill payment,Bills & Utilities
+UPI PAYMENT: JIO MOBILE RECHARGE,Bills & Utilities
+Card transaction: Airtel broadband bill REF 100102,Bills & Utilities
+Online/payment/for/Vodafone/postpaid/bill,Bills & Utilities
+Account statement narration - BSNL phone bill,Bills & Utilities
+MONTHLY EXPENSE: BROADBAND INTERNET PAYMENT,Bills & Utilities
+Payment to Gas bill payment REF 100106,Bills & Utilities
+Transaction/details:/Water/bill/payment,Bills & Utilities
+Purchase/payment: Utility bill transaction,Bills & Utilities
+BANK DEBIT: MOBILE PHONE BILL,Bills & Utilities
+Bank credit: Internet service bill REF 100110,Bills & Utilities
+Paid/for/UPI/electricity/payment,Bills & Utilities
+Received: Monthly utility charges,Bills & Utilities
+AUTO-DEBIT FOR LPG GAS PAYMENT,Bills & Utilities
+Merchant transaction: Telephone bill REF 100114,Bills & Utilities
+Digital/payment:/Electricity/bill/payment,Bills & Utilities
+Statement entry: Jio mobile recharge,Bills & Utilities
+PAYMENT MADE FOR AIRTEL BROADBAND BILL,Bills & Utilities
+Recent transaction: Vodafone postpaid bill REF 100118,Bills & Utilities
+Expense/record:/BSNL/phone/bill,Bills & Utilities
+Amazon shopping order,Shopping
+UPI PAYMENT: FLIPKART ONLINE PURCHASE,Shopping
+Card transaction: Myntra clothing order REF 100122,Shopping
+Online/payment/for/Ajio/fashion/purchase,Shopping
+Account statement narration - Meesho product order,Shopping
+MONTHLY EXPENSE: CLOTHING STORE BILL,Shopping
+Payment to Shoes purchase REF 100126,Shopping
+Transaction/details:/Online/shopping/payment,Shopping
+Purchase/payment: Electronics purchase,Shopping
+BANK DEBIT: HOUSEHOLD ITEM SHOPPING,Shopping
+Bank credit: Amazon marketplace payment REF 100130,Shopping
+Paid/for/Fashion/accessories,Shopping
+Received: Retail store purchase,Shopping
+AUTO-DEBIT FOR SHOPPING MALL TRANSACTION,Shopping
+Merchant transaction: Online product delivery REF 100134,Shopping
+Digital/payment:/Amazon/shopping/order,Shopping
+Statement entry: Flipkart online purchase,Shopping
+PAYMENT MADE FOR MYNTRA CLOTHING ORDER,Shopping
+Recent transaction: Ajio fashion purchase REF 100138,Shopping
+Expense/record:/Meesho/product/order,Shopping
+Pharmacy medicine purchase,Health
+UPI PAYMENT: APOLLO PHARMACY BILL,Health
+Card transaction: MedPlus medicine bill REF 100142,Health
+Online/payment/for/Hospital/consultation/fee,Health
+Account statement narration - Clinic visit payment,Health
+MONTHLY EXPENSE: 1MG MEDICINE ORDER,Health
+Payment to PharmEasy medicine delivery REF 100146,Health
+Transaction/details:/Doctor/consultation,Health
+Purchase/payment: Medical test payment,Health
+BANK DEBIT: HEALTH CHECKUP BILL,Health
+Bank credit: Prescription medicine purchase REF 100150,Health
+Paid/for/Medical/store/bill,Health
+Received: Dental clinic payment,Health
+AUTO-DEBIT FOR LAB TEST CHARGES,Health
+Merchant transaction: Healthcare expense REF 100154,Health
+Digital/payment:/Pharmacy/medicine/purchase,Health
+Statement entry: Apollo pharmacy bill,Health
+PAYMENT MADE FOR MEDPLUS MEDICINE BILL,Health
+Recent transaction: Hospital consultation fee REF 100158,Health
+Expense/record:/Clinic/visit/payment,Health
+Monthly salary credit,Salary
+UPI PAYMENT: SALARY RECEIVED FROM EMPLOYER,Salary
+Card transaction: Payroll credit REF 100162,Salary
+Online/payment/for/Company/salary/payment,Salary
+Account statement narration - October salary deposit,Salary
+MONTHLY EXPENSE: SALARY CREDITED TO ACCOUNT,Salary
+Payment to Monthly payroll deposit REF 100166,Salary
+Transaction/details:/Employer/salary/transfer,Salary
+Purchase/payment: Salary income,Salary
+BANK DEBIT: SALARY PAYMENT RECEIVED,Salary
+Bank credit: Office salary credit REF 100170,Salary
+Paid/for/Net/salary/deposit,Salary
+Received: Salary transfer from company,Salary
+AUTO-DEBIT FOR EMPLOYEE PAYROLL CREDIT,Salary
+Merchant transaction: Wages credited REF 100174,Salary
+Digital/payment:/Monthly/salary/credit,Salary
+Statement entry: Salary received from employer,Salary
+PAYMENT MADE FOR PAYROLL CREDIT,Salary
+Recent transaction: Company salary payment REF 100178,Salary
+Expense/record:/October/salary/deposit,Salary
+Savings account interest credit,Interest
+UPI PAYMENT: INTEREST PAID BY BANK,Interest
+Card transaction: Int.Pd savings REF 100182,Interest
+Online/payment/for/Fixed/deposit/interest/credit,Interest
+Account statement narration - Interest income received,Interest
+MONTHLY EXPENSE: BANK INTEREST DEPOSIT,Interest
+Payment to Quarterly interest credit REF 100186,Interest
+Transaction/details:/Deposit/interest/payment,Interest
+Purchase/payment: Interest credited,Interest
+BANK DEBIT: SAVINGS INTEREST PAYMENT,Interest
+Bank credit: FD interest received REF 100190,Interest
+Paid/for/Interest/credit/transaction,Interest
+Received: Bank deposit interest,Interest
+AUTO-DEBIT FOR INTEREST INCOME,Interest
+Merchant transaction: Account interest credit REF 100194,Interest
+Digital/payment:/Savings/account/interest/credit,Interest
+Statement entry: Interest paid by bank,Interest
+PAYMENT MADE FOR INT.PD SAVINGS,Interest
+Recent transaction: Fixed deposit interest credit REF 100198,Interest
+Expense/record:/Interest/income/received,Interest
+Monthly house rent,Rent
+UPI PAYMENT: APARTMENT RENT PAYMENT,Rent
+Card transaction: Flat rent transfer REF 100202,Rent
+Online/payment/for/House/rent/paid,Rent
+Account statement narration - Room rent payment,Rent
+MONTHLY EXPENSE: LANDLORD RENT TRANSFER,Rent
+Payment to Monthly rental payment REF 100206,Rent
+Transaction/details:/Rent/for/apartment,Rent
+Purchase/payment: UPI house rent,Rent
+BANK DEBIT: PAYING MONTHLY RENT,Rent
+Bank credit: Residential rent expense REF 100210,Rent
+Paid/for/Rent/transfer,Rent
+Received: Hostel room rent,Rent
+AUTO-DEBIT FOR HOME RENTAL PAYMENT,Rent
+Merchant transaction: Rent paid to owner REF 100214,Rent
+Digital/payment:/Monthly/house/rent,Rent
+Statement entry: Apartment rent payment,Rent
+PAYMENT MADE FOR FLAT RENT TRANSFER,Rent
+Recent transaction: House rent paid REF 100218,Rent
+Expense/record:/Room/rent/payment,Rent
+Home loan EMI,EMI & Loans
+UPI PAYMENT: CAR LOAN INSTALLMENT,EMI & Loans
+Card transaction: Personal loan EMI REF 100222,EMI & Loans
+Online/payment/for/Two/wheeler/loan/payment,EMI & Loans
+Account statement narration - Monthly loan repayment,EMI & Loans
+MONTHLY EXPENSE: EDUCATION LOAN INSTALLMENT,EMI & Loans
+Payment to Credit loan repayment REF 100226,EMI & Loans
+Transaction/details:/Loan/EMI/debit,EMI & Loans
+Purchase/payment: Bank loan installment,EMI & Loans
+BANK DEBIT: EMI PAYMENT TRANSACTION,EMI & Loans
+Bank credit: Loan repayment debit REF 100230,EMI & Loans
+Paid/for/Mortgage/installment,EMI & Loans
+Received: Vehicle finance EMI,EMI & Loans
+AUTO-DEBIT FOR PERSONAL LOAN REPAYMENT,EMI & Loans
+Merchant transaction: Monthly installment paid REF 100234,EMI & Loans
+Digital/payment:/Home/loan/EMI,EMI & Loans
+Statement entry: Car loan installment,EMI & Loans
+PAYMENT MADE FOR PERSONAL LOAN EMI,EMI & Loans
+Recent transaction: Two wheeler loan payment REF 100238,EMI & Loans
+Expense/record:/Monthly/loan/repayment,EMI & Loans
+Bank service charges,Fees & Charges
+UPI PAYMENT: GST BANK CHARGES,Fees & Charges
+Card transaction: Annual debit card fee REF 100242,Fees & Charges
+Online/payment/for/SMS/alert/charges,Fees & Charges
+Account statement narration - Account maintenance fee,Fees & Charges
+MONTHLY EXPENSE: ATM TRANSACTION CHARGES,Fees & Charges
+Payment to Bank processing fee REF 100246,Fees & Charges
+Transaction/details:/Late/payment/fee,Fees & Charges
+Purchase/payment: Debit card annual fee,Fees & Charges
+BANK DEBIT: SERVICE CHARGE DEBIT,Fees & Charges
+Bank credit: Bank fee deduction REF 100250,Fees & Charges
+Paid/for/Transaction/fee,Fees & Charges
+Received: Account service charges,Fees & Charges
+AUTO-DEBIT FOR GST ON SERVICE FEE,Fees & Charges
+Merchant transaction: Penalty charges REF 100254,Fees & Charges
+Digital/payment:/Bank/service/charges,Fees & Charges
+Statement entry: GST bank charges,Fees & Charges
+PAYMENT MADE FOR ANNUAL DEBIT CARD FEE,Fees & Charges
+Recent transaction: SMS alert charges REF 100258,Fees & Charges
+Expense/record:/Account/maintenance/fee,Fees & Charges
+Zerodha investment payment,Investments
+UPI PAYMENT: GROWW MUTUAL FUND PURCHASE,Investments
+Card transaction: Mutual fund SIP REF 100262,Investments
+Online/payment/for/Upstox/trading/transaction,Investments
+Account statement narration - Monthly SIP investment,Investments
+MONTHLY EXPENSE: STOCK MARKET INVESTMENT,Investments
+Payment to Equity investment purchase REF 100266,Investments
+Transaction/details:/Mutual/fund/contribution,Investments
+Purchase/payment: Investment account transfer,Investments
+BANK DEBIT: BROKERAGE INVESTMENT PAYMENT,Investments
+Bank credit: Recurring SIP debit REF 100270,Investments
+Paid/for/Share/purchase,Investments
+Received: Investment platform payment,Investments
+AUTO-DEBIT FOR INDEX FUND INVESTMENT,Investments
+Merchant transaction: Mutual fund order REF 100274,Investments
+Digital/payment:/Zerodha/investment/payment,Investments
+Statement entry: Groww mutual fund purchase,Investments
+PAYMENT MADE FOR MUTUAL FUND SIP,Investments
+Recent transaction: Upstox trading transaction REF 100278,Investments
+Expense/record:/Monthly/SIP/investment,Investments
